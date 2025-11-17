@@ -27,8 +27,8 @@ Explore some of our open-source repositories below to learn more about how you c
 | [data-visualization](https://github.com/undp/data-visualization) | UNDP data viz library for React projects. |
 | [geohub](https://github.com/UNDP-Data/geohub) | Geospatial visualization data portal built by UNDP using SvelteKit. |
 | [st-undp](https://github.com/UNDP-Data/st-undp) | Python package that helps build Streamlit apps in line with UNDP Design System. |
+| [extensions-for-quarto](https://github.com/UNDP-Data/extensions-for-quarto) | A collection of extensions for Quarto projects at UNDP. |
 | [undp-brand-yml](https://github.com/UNDP-Data/undp-brand-yml) | Python package that provides a `brand.yml` definition for applying corporate styling in Shiny and Quarto projects. |
-| [plotly-undp-theme](https://github.com/UNDP-Data/undp-brand-yml) | Python package that adds a UNDP-branded template for theming Plotly figures. |
 | [fastapi-starter-kit](https://github.com/UNDP-Data/fastapi-starter-kit) | Project template for creating web APIs in Python using fastAPI at UNDP. |
 
 > [!TIP]
