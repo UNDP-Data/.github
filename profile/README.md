@@ -25,7 +25,7 @@ Explore some of our open-source repositories below to learn more about how you c
 |------------|-------------|
 | [create-app](https://github.com/UNDP-Data/create-app) | Scaffolding tool for bootstrapping frontend apps in React and TypeScript at UNDP. |
 | [data-visualization](https://github.com/undp/data-visualization) | UNDP data viz library for React projects. [Docs here](https://dataviz.design.undp.org/) |
-| [ui-library](https://github.com/undp/undp-ui-library)) | UNDP UI library for React projects. [Docs here](https://react.design.undp.org/) |
+| [ui-library](https://github.com/undp/undp-ui-library) | UNDP UI library for React projects. [Docs here](https://react.design.undp.org/) |
 | [geohub](https://github.com/UNDP-Data/geohub) | Geospatial visualization data portal built by UNDP using SvelteKit. |
 | [st-undp](https://github.com/UNDP-Data/st-undp) | Python package that helps build Streamlit apps in line with UNDP Design System. |
 | [extensions-for-quarto](https://github.com/UNDP-Data/extensions-for-quarto) | A collection of extensions for Quarto projects at UNDP. |
